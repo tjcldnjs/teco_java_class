@@ -1,4 +1,4 @@
-package basic.ex13;
+package basic.ch13;
 
 import java.lang.module.ModuleDescriptor.Version;
 // 가지고 오다, 수입하다

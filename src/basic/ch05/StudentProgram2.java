@@ -11,8 +11,9 @@ public class StudentProgram2 {
 		// 참조 타입(주소값 들어간다.)
 		Student student1 = new Student();
 		Student student2 = new Student();
-		// . 연산자를 통해서 접근할 수 있다.
 		
+		
+		// . 연산자를 통해서 접근할 수 있다.
 		student1.name = "홍길동";
 		// 콘솔창에 student1(변수에 연결되어 있는 객체의 이름을 출력)
 		System.out.println(student1.name);
