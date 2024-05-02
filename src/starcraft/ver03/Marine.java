@@ -6,7 +6,7 @@ public class Marine extends Unit {
 		super(name);
 		super.name = name;
 		super.power = 4;
-		super.hp = 70;
+		super.hp = 70; 
 	}
 
 
