@@ -14,6 +14,7 @@ public class MyThreadMainTest {
 		
 		System.out.println("=============================");
 		MyThread th2 = new MyThread();
+		th2.start();
 		
 		
 	} // end of main

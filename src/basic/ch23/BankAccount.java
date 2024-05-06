@@ -33,7 +33,6 @@ public class BankAccount {
 	// 출금
 	public int withDraw(int money) {
 
-
 		synchronized (this) {
 			// 현재 잔액 10만원....
 			int currentMoney = getMoney();
